@@ -1,5 +1,5 @@
 # proje-algo
 Togasbek Talshyn is responsible for Slide <br>
-Temirgaliyev Akyl is reponsible for Theory and information
-Yessenov Zhassulan is responsible for Implementation of Prims algorithm
+Temirgaliyev Akyl is reponsible for Theory and information<br>
+Yessenov Zhassulan is responsible for Implementation of Prims algorithm<br>
 Yerkinbyek Aishyrakh is responsible for Implementation of Kruskals algorithm
